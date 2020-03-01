@@ -15,6 +15,3 @@ def print_first_directors_movie_titles
 end
 end
 
-#movies_row_number = 0
-  #while movies_row_number < directors_database[:movies].length do
- # puts directors_database[0][:movies][movies_row_number] end
